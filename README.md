@@ -30,6 +30,8 @@ Typhon (/ˈtaɪfɒn, -fən/; Greek: Τυφῶν, [typʰɔ̂ːn]), also Typhoeus 
 * 4x M3x18 Flat Head Socket Bolts 12.9 Black Steel
 * 4x M3x8 Button Head Bolts
 * 12x M3x8mm Socket Head Bolts (motor mounting)
+* 6x M3 Press Nuts
+<img src="https://github.com/SouthEastFPV/Typhon/blob/main/Images/PressNut.JPG?raw=true" width="800">
 
 ## Project links
 * Project discussion: https://discord.gg/AsXFzmGM 
