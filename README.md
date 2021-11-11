@@ -1,6 +1,6 @@
 # Typhon
 Open Source FPV 6" Drone Racing Frame project initiated by SouthEastFPV - Rick Caudle AKA - SSBelmont
-<img src="https://github.com/SouthEastFPV/Leventador-Pro/blob/main/Images/LP_V1.png?raw=true" width="800">
+<img src="https://github.com/SouthEastFPV/Typhon/blob/main/Images/T_v7_Assembly.jpg?raw=true" width="800">
 
 # About Typhon
 ## The idea
@@ -10,8 +10,6 @@ Top MultiGP Pilots currently flying this frame are Mason "Hyper" Lively, Tristan
 
 Typhon
 Typhon (/ˈtaɪfɒn, -fən/; Greek: Τυφῶν, [typʰɔ̂ːn]), also Typhoeus (/taɪˈfiːəs/; Τυφωεύς), Typhaon (Τυφάων) or Typhos (Τυφώς), was a monstrous serpentine giant and one of the deadliest creatures in Greek mythology. According to Hesiod, Typhon was the son of Gaia and Tartarus. However, one source has Typhon as the son of Hera alone, while another makes Typhon the offspring of Cronus. Typhon and his mate Echidna were the progenitors of many famous monsters.
-
-<img src="https://github.com/SouthEastFPV/Leventador-Pro/blob/main/Images/LP_v4_Assembly.jpg?raw=true" width="800">
 
 ## Frame specifications
 * Wheelbase 5": 226mm
