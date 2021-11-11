@@ -20,7 +20,7 @@ Typhon (/ˈtaɪfɒn, -fən/; Greek: Τυφῶν, [typʰɔ̂ːn]), also Typhoeus 
 * Brace: 4mm (braces are optional, I personally don't use them)
 * Lipo Pad: 2mm (will release files soon)
 * Stack mounting:  20 x 20
-* Weight 5": 74g
+* Weight 5": 54g
 
 ## Hardware
 * 4x M3x20 or M3x25 Knurled Standoffs  (personal preference)
