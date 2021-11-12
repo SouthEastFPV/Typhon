@@ -42,7 +42,7 @@ Please use the tag "typhon" when uploading files to thingiverse.com
 * [Not currently being sold by any vendor]
 
 ## Carbon Fiber sources and CNC Services
-More Information here: https://github.com/SouthEastFPV/Leventador-Pro/blob/main/CF_CNCServices.md
+More Information here: https://github.com/SouthEastFPV/Typhon/blob/main/CF_CNCServices.md
 
 ## Compatibility
 
