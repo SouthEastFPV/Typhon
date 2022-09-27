@@ -39,7 +39,7 @@ Typhon (/ˈtaɪfɒn, -fən/; Greek: Τυφῶν, [typʰɔ̂ːn]), also Typhoeus 
 Please use the tag "typhon" when uploading files to thingiverse.com
 
 ## Where to buy
-* [Not currently being sold by any vendor]
+* You can purchase a Typhon from https://dindrones.com/.  Din is a trusted business owner and avid MultiGP Pro Pilot and is well known.  
 
 ## Carbon Fiber sources and CNC Services
 More Information here: https://github.com/SouthEastFPV/Typhon/blob/main/CF_CNCServices.md
