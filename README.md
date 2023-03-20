@@ -1,5 +1,5 @@
 # Typhon
-Open Source FPV 6" Drone Racing Frame project initiated by SouthEastFPV - Rick Caudle AKA - SSBelmont
+Open Source FPV 5" & 6" Drone Racing Frame project initiated by SouthEastFPV - Rick Caudle AKA - SSBelmont
 <img src="https://github.com/SouthEastFPV/Typhon/blob/main/Images/T_v7_Assembly.jpg?raw=true" width="800">
 
 # About Typhon
