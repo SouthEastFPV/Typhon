@@ -73,8 +73,6 @@ Please use the tag "typhon" when uploading files to thingiverse.com
 More Information on CNC/Carbon Fibercutting services 
 [click here](/CNC/CF_CNCServices.md)
 
-[Click here](/CNC/CF_CNCServices.md) 
-
 ### Typhoon v7
 * v7 Design complete/tested/vetted during many MultiGP Events and flown by many of the Top MultiGP Pilots i.e. Mason "Hyper" Lively, Tristan "TDog_FPV" Tefft, Rick "SSBelmont" Caudle, Randy "Gator" Jeppesen, Ryan "MegaHurts" Davis, ProDangles, SolidFPV, CoryRC, Sp3cimen
 
