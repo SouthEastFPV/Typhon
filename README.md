@@ -56,8 +56,9 @@ Don't forget to have some arm locks cut!
 You will need quanity 2 of these for each build.
 [Click here](/Arm%20Locks/Readme.md) to navigate to the Arm Locks section
 
-## Regular Body
+## Original Body
 The frame was orginally designed with these files being used for the mid-body section.
+[Click here](/Regular_Body) to navigate to the Orginal Body section/files.
 
 
 ## Conclusion
