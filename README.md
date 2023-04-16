@@ -56,6 +56,10 @@ Don't forget to have some arm locks cut!
 You will need quanity 2 of these for each build.
 [Click here](/Arm%20Locks/Readme.md) to navigate to the Arm Locks section
 
+## Regular Body
+The frame was orginally designed with these files being used for the mid-body section.
+
+
 ## Conclusion
 My general conclusion is our motors have so much torque today, you need a wider 5mm Arm or a thicker skinny arm and it needs to be cut from T700 CF.  So the 5" 5mm skinny arms I am not a huge fan of (I recommend an arm brace when using 5mm skinny arms).  You will get much better performance from a 6mm skinny arm with very little additional weight.  It's possible to cut these out of 5.5mm thickness but I think it's a waste of time, just use 6mm, the weight savings isn't worth it. 
 
