@@ -45,9 +45,10 @@ I have designed a short skinny 5" arm in both 5mm and 6mm thickness.  I have als
 I have included .STEP, .F3D and .IGES files.  In some cases I provide .DXF but the .STEP, F3D and .IGES files are 3D drawings, so if you need a 2D file you can export form these.  All these files can be find in the folder.
 
 ## Shorty 5" Arms
+[Click here](/Shorty%20Arms/Readme.md) to navigate to the Shorty Arm section.
 [5" 5mm Shorty Arms](/Shorty%20Arms/5mm)<br>
 [5" 6mm Shorty Arm](/Shorty%20Arms/6mm)<br>
-[5" Shorty Arm Braces](/Shorty/Arm%20Braces/)
+[5" Shorty Arm Braces](/Shorty/Arm%20Brace/)
 
 Don't forget to have some arm locks cut!
 
