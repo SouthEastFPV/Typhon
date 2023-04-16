@@ -21,7 +21,7 @@ Shorty Arm File(s):
 | 6mm Shorty Arm | T_v8_Mid_Plate_L.dxf or T_v8_Mid_Plate_L.step |
 
 ## Don't forget your Arm Locks!
-[Arm Locks](/Arm Locks/Readme.md)
+[Click here](/Arm%20Locks/Readme.md) to navigate to the Arm Locks Section.
 
 ## Files are located in their respective folders
 Navigate to the folder and download the files you need, or learn how to use GitHub and clone the repo locally to get all the files, or download the repo as a zip file.
