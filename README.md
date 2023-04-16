@@ -83,7 +83,7 @@ Please use the tag "typhon" when uploading files to thingiverse.com
 * You can purchase a Typhon from https://dindrones.com/. Din is a trusted business owner and avid MultiGP Pro Pilot and is well known.
 
 ## Carbon Fiber sources and CNC Services
-More Information on CNC/Carbon Fibercutting services 
+More Information on CNC/Carbon Fiber cutting services 
 [click here](/CNC/CF_CNCServices.md)
 
 ### Typhoon v7
