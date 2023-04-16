@@ -12,7 +12,7 @@ Take a look at the images below to get an idea of the difference in sizes.
 Now, compare the long bodies to the regular body to get a better understanding of the differences
 
 ## Regular Body
-![](/Images/Long_Body/Regular Body.jpg)
+![](/Images/Long_Body/Regular%20Body.jpg)
 
 ## Files
 
