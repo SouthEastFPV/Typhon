@@ -15,8 +15,8 @@ Typhon (/ˈtaɪfɒn, -fən/; Greek: Τυφῶν, [typʰɔ̂ːn]), also Typhoeus 
 ## 4/16/2013
 - Refactored the repo added various folders making it easier to navigate and understand what is what
 - Created/Add Long and Extra Long Bodies to accomidate the new ESCs [click here]() to navigate to the Long Bodies.
-- Created/Added Shorty Arms section [click here]() to navigate to the Shorty Arms.
-- Created/Added Arm Locks section [click here]() to navigate to the Arm Locks.
+- Created/Added Shorty Arms section [click here](/Long%20Bodies/Readme.md) to navigate to the Shorty Arms.
+- Created/Added Arm Locks section [click here](/Arm%20Locks/Readme.md)to navigate to the Arm Locks.
 
 ## Frame specifications
 * Wheelbase 5": 226mm
