@@ -70,7 +70,7 @@ Please use the tag "typhon" when uploading files to thingiverse.com
 * You can purchase a Typhon from https://dindrones.com/. Din is a trusted business owner and avid MultiGP Pro Pilot and is well known.
 
 ## Carbon Fiber sources and CNC Services
-More Information on CNC / Carbon Fiber cutting services [click here](/CNC/CF_CNSServices.md)
+More Information on CNC/Carbon Fiber cutting services [click here](/CNC/CF_CNSServices.md)
 
 ### Typhoon v7
 * v7 Design complete/tested/vetted during many MultiGP Events and flown by many of the Top MultiGP Pilots i.e. Mason "Hyper" Lively, Tristan "TDog_FPV" Tefft, Rick "SSBelmont" Caudle, Randy "Gator" Jeppesen, Ryan "MegaHurts" Davis, ProDangles, SolidFPV, CoryRC, Sp3cimen
