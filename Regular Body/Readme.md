@@ -1,1 +1,6 @@
-These are the original mid-body files for the Typhon.
+#Regular Body
+This section contains all the mid-body parts for the original design.
+![](/Images/Regular_Body/Regular%20Body.jpg)
+
+This mid-body will be challenging to use with the longer style ESCs, you may want to checkout the Long Bodies if you plan to run longer 20x20 ESCs. 
+[click here](Long_Bodies/Readme.md) to navigate to the Long Bodies.
