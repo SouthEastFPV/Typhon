@@ -62,7 +62,7 @@ The frame was originally designed with these files being used for the mid-body s
 
 ## Original Arms
 This frame was originally designed with a longer arm (6") as Hyper liked the longer arms with a 5.1" prop. <br>
-[Click here]() to navigate to the Original Arms section/files.
+[Click here](/Long%20Arms) to navigate to the Original Arms section/files.
 
 
 ## Conclusion
