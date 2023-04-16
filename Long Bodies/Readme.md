@@ -7,7 +7,7 @@ Many people have asked me to design a long body in order to allow for the longer
 Take a look at the images below to get an idea of the difference in sizes.
 
 
-![](/Typhon/Images/Long_Body/Long%20Bodies.jpg)
+![](/Images/Long_Body/Long%20Bodies.jpg)
 
 
 
