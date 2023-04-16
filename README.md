@@ -11,7 +11,7 @@ Top MultiGP Pilots currently flying this frame are Mason "Hyper" Lively, Tristan
 Typhon
 Typhon (/ˈtaɪfɒn, -fən/; Greek: Τυφῶν, [typʰɔ̂ːn]), also Typhoeus (/taɪˈfiːəs/; Τυφωεύς), Typhaon (Τυφάων) or Typhos (Τυφώς), was a monstrous serpentine giant and one of the deadliest creatures in Greek mythology. According to Hesiod, Typhon was the son of Gaia and Tartarus. However, one source has Typhon as the son of Hera alone, while another makes Typhon the offspring of Cronus. Typhon and his mate Echidna were the progenitors of many famous monsters.
 
-# Updates
+# Changelog
 ## 4/16/2013
 - Refactored the repo added various folders making it easier to navigate and understand what is what
 - Created/Added **Long and Extra Long Bodies** to accomidate the new ESCs [click here](/Long%20Bodies/Readme.md) to navigate to the Long Bodies.
@@ -20,15 +20,15 @@ Typhon (/ˈtaɪfɒn, -fən/; Greek: Τυφῶν, [typʰɔ̂ːn]), also Typhoeus 
 - Created folder for long arms (6" Arms) [click here](/Long%20Arms) to navigate to the Long Arms folder.
 
 ## Frame specifications
-* Wheelbase 5": 226mm
+* Wheelbase 5" or 6": 226mm (when using the 6" arms)
 * Top plate: 2mm
 * Mid plate: 2mm
 * Bottom plate 2mm
-* Arm: 6mm
+* Arm: 6mm or 5mm
 * Brace: 4mm (braces are optional, I personally don't use them)
 * Lipo Pad: 2mm (will release files soon)
 * Stack mounting:  20 x 20
-* Weight 6": 54g
+* Weight 6": 54g (lighter if using 5" shorty arms)
 
 ## Hardware
 * 4x M3x20 or M3x25 Knurled Standoffs  (personal preference)
@@ -44,20 +44,18 @@ I have designed a short skinny 5" arm in both 5mm and 6mm thickness.  I have als
 
 I have included .STEP, .F3D and .IGES files.  In some cases I provide .DXF but the .STEP, F3D and .IGES files are 3D drawings, so if you need a 2D file you can export form these.  All these files can be find in the folder.
 
+## Shorty 5" Arms
+[5" 5mm Shorty Arms](/Shorty%20Arms/5mm)
+[5" 6mm Shorty Arm]((/Shorty%20Arms/6mm))
+[5" Shorty Arm Braces](/Arm%20Braces/)
 
-* T_v7_5_Inch_Shorty_Brace_3mm - 5" Shorty 3mm brace (I recommend the 6mm thick arm with no brace)
-* T_v7_5_Inch_Arm_Lock_2mm     - Arm Lock for the 5mm thick arms works with any 5mm arm
-* T_v7_Arm_5_Inch_Shorty_5mm   - 5" Skinny Shorty Arm in 5mm thickness
-* T_v7_Arm_5_Inch_Shorty_6mm   - 5" Skinny Shorty Arm in 6mm thickness
-* T_v7_Arm_5.5_Inch_6mm	       - 5.5" Skinny Arm modeled after  5" Skinny Shorty 6mm thickness 
-
-My general conclusion is our motors have so much torque today, you need a wider 5mm Arm or a thicker skinny arm and it needs to be cut from T700 CF.  So the 5" skinny arms I am not a fan of when cut from 5mm.  You will get much better performance from a 6mm skinny arm with very little additional weight.  It's possible to cut these out of 5.5mm thickness but I think it's a waste of time, just use 6mm, the weight savings isn't worth it. 
+Don't forget to have some arm locks cut!
 
 ## Arm Lock Notes
-* T_v7_Arm_Lock1_2x.dxf  - You will need QTY 2 of these for a 5mm build
-* T_v7_Arm_Lock2_2x.dxf  - You will need QTY 2 of these for a 6mm build ( can you use either those actually, but you will need to file the nubs down if you use the 6mm version on a 5mm arm.)
+You will need quanity 2 of these for each build.
+[Click here](/Arm%20Locks/Readme.md) to navigate to the Arm Locks section
 
-
+My general conclusion is our motors have so much torque today, you need a wider 5mm Arm or a thicker skinny arm and it needs to be cut from T700 CF.  So the 5" 5mm skinny arms I am not a huge fan of (I recommend an arm brace when using 5mm skinny arms).  You will get much better performance from a 6mm skinny arm with very little additional weight.  It's possible to cut these out of 5.5mm thickness but I think it's a waste of time, just use 6mm, the weight savings isn't worth it. 
 
 ## Project links
 * Project discussion: https://discord.gg/AsXFzmGM
@@ -71,20 +69,6 @@ Please use the tag "typhon" when uploading files to thingiverse.com
 
 ## Carbon Fiber sources and CNC Services
 More Information here: https://github.com/SouthEastFPV/Typhon/blob/main/CF_CNCServices.md
-
-## Compatibility
-
-| Part             |             v7|    
-| ---------------  | ------------- |
-| top plate        |fits only v7 T |        
-| bottom plate     |fits only v7 T |  
-| mid plate        |fits only v7 T |              
-| arms             |fits only v7 T |                  
-| brace            |fits only v7 T |
-| arm locks        |fits only v7 T |                
-
-## Changelog
-9/27/2022 - Added various 5" arms
 
 ### Typhoon v7
 * v7 Design complete/tested/vetted during many MultiGP Events and flown by many of the Top MultiGP Pilots i.e. Mason "Hyper" Lively, Tristan "TDog_FPV" Tefft, Rick "SSBelmont" Caudle, Randy "Gator" Jeppesen, Ryan "MegaHurts" Davis, ProDangles, SolidFPV, CoryRC, Sp3cimen
