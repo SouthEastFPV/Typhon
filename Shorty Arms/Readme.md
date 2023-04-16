@@ -16,7 +16,7 @@ Many people have asked me to design a long body in order to allow for the longer
 Take a look at the images below to get an idea of the difference in sizes.
 
 ## Long & Extra Long Bodies
-![](/Images/Long_Body/Shorty_Arm.jpg)
+![](/Images/Shorty_Arms/Shorty_Arm.jpg)
 Long Body File(s):
 | Description | File(s) |
 | ---- | ---- |
