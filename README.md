@@ -60,6 +60,10 @@ You will need quanity 2 of these for each build.
 The frame was originally designed with these files being used for the mid-body section.<br>
 [Click here](/Regular%20Body) to navigate to the Original Body section/files.
 
+## Long & Extra Long Bodies
+These mid-bodies are perfect for the longer 20x20 ESCs.<br>
+[Click here](/Long%20Bodies) to navigate to the Original Body section/files.
+
 ## Original Arms
 This frame was originally designed with a longer arm (6") as Hyper liked the longer arms with a 5.1" prop. <br>
 [Click here](/Long%20Arms) to navigate to the Original Arms section/files.
