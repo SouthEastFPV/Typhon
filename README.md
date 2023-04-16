@@ -52,10 +52,11 @@ I have included .STEP, .F3D and .IGES files.  In some cases I provide .DXF but t
 
 Don't forget to have some arm locks cut!
 
-## Arm Lock Notes
+## Arm Locks
 You will need quanity 2 of these for each build.
 [Click here](/Arm%20Locks/Readme.md) to navigate to the Arm Locks section
 
+## Conclusion
 My general conclusion is our motors have so much torque today, you need a wider 5mm Arm or a thicker skinny arm and it needs to be cut from T700 CF.  So the 5" 5mm skinny arms I am not a huge fan of (I recommend an arm brace when using 5mm skinny arms).  You will get much better performance from a 6mm skinny arm with very little additional weight.  It's possible to cut these out of 5.5mm thickness but I think it's a waste of time, just use 6mm, the weight savings isn't worth it. 
 
 ## Project links
@@ -77,7 +78,7 @@ More Information here: https://github.com/SouthEastFPV/Typhon/blob/main/CF_CNCSe
 * initial release from SouthEast FPV
 
 ## Project license
-The frame files are released under GNU Public License (GPL) V3. More information here: https://www.gnu.org/licenses/gpl-3.0.en.html
+The frame files are released under GNU Public License (GPL) V3. More information here: https://www.gnu.org/licenses/gpl-3.0.en.html.  If you design any new parts for this frame, per the license you need to make those files availabe to the public.  
 
 ## Project naming requirements
 Typhon is the name of the frame.  If you are thinking about manufacturing it, you are expected to prefix the name with a brand name in order to allow customers to distinguish the different manufacturers, e.g. “SOUTHEAST TYPHON”. As a manufacturer you are also expected to denote the version number of the frame files that you have used as basis of the project, e.g. “SOUTHEAST TYPHON V7”.
