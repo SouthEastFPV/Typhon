@@ -18,7 +18,8 @@ Shorty Arm File(s):
 | Description | File(s) |
 | ---- | ---- |
 | 5mm Shorty Arm | T_v8_Bottom_Plate_L.dxf or T_v8_Bottom_Plate_L.step |
-| 6mm Shorty Arm | T_v8_Mid_Plate_L.dxf or T_v8_Mid_Plate_L.step |
+| 6mm Shorty Arm | T_v7_Shorty_Arm_5_Inch_6mm.dxf, T_v7_Shorty_Arm_5_Inch_6mm.step |
+[Click here](/Shorty%20Arms) to navigate to the Shorty Arms folder to download files.
 
 ## Don't forget your Arm Locks!
 [Click here](/Arm%20Locks/Readme.md) to navigate to the Arm Locks Section.
