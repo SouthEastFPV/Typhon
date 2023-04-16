@@ -27,6 +27,7 @@ Now, compare the long bodies to the regular body to get a better understanding o
 ## Regular Body
 ![](/Images/Long_Body/Regular%20Body.jpg)
 
-## Files
+## Files are located in their respective folders
+Navigate to the folder and download the files you need, or learn how to use GitHub and clone the repo locally to get all the files, or download the repo as a zip file.
 
 
