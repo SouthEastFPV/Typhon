@@ -11,6 +11,13 @@ Top MultiGP Pilots currently flying this frame are Mason "Hyper" Lively, Tristan
 Typhon
 Typhon (/ˈtaɪfɒn, -fən/; Greek: Τυφῶν, [typʰɔ̂ːn]), also Typhoeus (/taɪˈfiːəs/; Τυφωεύς), Typhaon (Τυφάων) or Typhos (Τυφώς), was a monstrous serpentine giant and one of the deadliest creatures in Greek mythology. According to Hesiod, Typhon was the son of Gaia and Tartarus. However, one source has Typhon as the son of Hera alone, while another makes Typhon the offspring of Cronus. Typhon and his mate Echidna were the progenitors of many famous monsters.
 
+# Updates
+## 4/16/2013
+- Refactored the repo added various folders making it easier to navigate and understand what is what
+- Created/Add Long and Extra Long Bodies to accomidate the new ESCs [click here]() to navigate to the Long Bodies.
+- Created/Added Shorty Arms section [click here]() to navigate to the Shorty Arms.
+- Created/Added Arm Locks section [click here]() to navigate to the Arm Locks.
+
 ## Frame specifications
 * Wheelbase 5": 226mm
 * Top plate: 2mm
