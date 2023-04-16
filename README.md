@@ -46,8 +46,8 @@ I have included .STEP, .F3D and .IGES files.  In some cases I provide .DXF but t
 
 ## Shorty 5" Arms
 [5" 5mm Shorty Arms](/Shorty%20Arms/5mm)<br>
-[5" 6mm Shorty Arm]((/Shorty%20Arms/6mm))<br>
-[5" Shorty Arm Braces](/Arm%20Braces/)
+[5" 6mm Shorty Arm](/Shorty%20Arms/6mm)<br>
+[5" Shorty Arm Braces](/Shorty/Arm%20Braces/)
 
 Don't forget to have some arm locks cut!
 
