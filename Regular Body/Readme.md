@@ -1,4 +1,4 @@
-#Regular Body
+# Regular Body
 This section contains all the mid-body parts for the original design.
 ![](/Images/Regular_Body/Regular%20Body.jpg)
 
